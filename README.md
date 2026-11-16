@@ -23,9 +23,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sarthakdhir-1005/CAP2012_CA3_LeetCode_-12507194-/tree/master/0560-subarray-sum-equals-k) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sarthakdhir-1005/CAP2012_CA3_LeetCode_-12507194-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Simulation
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sarthakdhir-1005/CAP2012_CA3_LeetCode_-12507194-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sarthakdhir-1005/CAP2012_CA3_LeetCode_-12507194-/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sarthakdhir-1005/CAP2012_CA3_LeetCode_-12507194-/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
