@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/sarthakdhir-1005/CAP2012_CA3_LeetCode_-12507194-/tree/master/0232-implement-queue-using-stacks) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sarthakdhir-1005/CAP2012_CA3_LeetCode_-12507194-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/sarthakdhir-1005/CAP2012_CA3_LeetCode_-12507194-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Design
 |  |
 | ------- |
@@ -14,8 +15,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/sarthakdhir-1005/CAP2012_CA3_LeetCode_-12507194-/tree/master/0232-implement-queue-using-stacks) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/sarthakdhir-1005/CAP2012_CA3_LeetCode_-12507194-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## String
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sarthakdhir-1005/CAP2012_CA3_LeetCode_-12507194-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Array
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/sarthakdhir-1005/CAP2012_CA3_LeetCode_-12507194-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Simulation
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/sarthakdhir-1005/CAP2012_CA3_LeetCode_-12507194-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
